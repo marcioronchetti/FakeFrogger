@@ -1,7 +1,7 @@
 Fake Frogger
 ===============================
 
-#Playing the game.
+## Playing the game.
 
 1. Open index.html.
 
@@ -10,7 +10,7 @@ Fake Frogger
 3. Have fun!
 
 
-#algumas considerações
+## algumas considerações
 
 
 1. A pagina app.js foi 90% alterada por mim, os outros 10% já vieram pré-definidos mas sofreram algumas alterações
