@@ -1,5 +1,4 @@
-Fake Frogger
-===============================
+# Fake Frogger
 
 ## Playing the game.
 
