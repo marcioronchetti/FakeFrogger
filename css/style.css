@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    color: #d85858;
+}
+#instructions {
+    font-size: 16px;
+    padding-bottom: 20px;
+    border-bottom: solid 1px #d85858;
+    width: 30%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+#instructions p {
+    margin: 0;
+    color: gray;
+}
+.tittle {
+
+}
